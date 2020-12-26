@@ -2,7 +2,7 @@
 ### Keras for Deep Learning
 
 ### Deep Learning with GANs
-
+  * [Chapter2 : Autoencoder](GANs/Chapter_2_Autoencoder..ipynb)
 
 ## Reference
 * Textbook
