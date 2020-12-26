@@ -1,7 +1,7 @@
 # Deep Learning note
-## Keras for Deep Learning
+### Keras for Deep Learning
 
-## Deep Learning with GANs
+### Deep Learning with GANs
 
 
 ## Reference
